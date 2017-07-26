@@ -33,7 +33,7 @@ template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/basmith89/2017-26-07_tucson_practice"
-workshop_site: "https://github.com/basmith89/2017-26-07_tucson_practice/"
+workshop_site: "https://basmith.github.io/2017-26-07_tucson_practice"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
